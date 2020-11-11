@@ -48,6 +48,7 @@ right: 0%;
 height: 100%;
 width: 20%;
 display: block;
+text-decoration: none;
 }
 #sidebar-container ul {
 list-style-type: none;
@@ -62,4 +63,5 @@ text-decoration: none;
 }
 #sidebar-container ul li a:hover {
 background-color: #000;
+text-decoration: none;
 }
