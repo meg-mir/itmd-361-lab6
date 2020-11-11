@@ -1,67 +1,67 @@
 #main-navbar {
-background-color: blue;
-overflow: hidden;
-color: #fff;
-text-decoration: none;
+  background-color: blue;
+  overflow: hidden;
+  color: #fff;
+  text-decoration: none;
 }
 #main-navbar ul {
-list-style-type: none;
-margin: 0;
-padding: 0;
-position: relative;
-left: 50%;
-float: left;
-text-decoration: none;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
+  text-decoration: none;
 }
 #main-navbar ul li {
-display: block;
-float: left;
-right: 50%;
-position: relative;
-text-decoration: none;
+  display: block;
+  float: left;
+  right: 50%;
+  position: relative;
+  text-decoration: none;
 }
 #main-navbar ul li a {
-display: block;
-text-decoration: none;
-padding: 10px 20px;
-color: #fff;
+  display: block;
+  text-decoration: none;
+  padding: 10px 20px;
+  color: #fff;
 }
 #main-navbar ul li a:hover {
-background-color: #000;
-text-decoration: none;
+  background-color: #000;
+  text-decoration: none;
 }
 #navbar-container {
-float: left;
-width: 100%;
-position: relative;
-color: #fff;
-text-decoration: none;
+  float: left;
+  width: 100%;
+  position: relative;
+  color: #fff;
+  text-decoration: none;
 }
 #onpage {
-text-decoration: underline overline;
-color: #fff;
+  text-decoration: underline overline;
+  color: #fff;
 }
 #sidebar {
-position: fixed;
-background-color: red;
-right: 0%;
-height: 100%;
-width: 20%;
-display: block;
-text-decoration: none;
+  position: fixed;
+  background-color: red;
+  right: 0%;
+  height: 100%;
+  width: 20%;
+  display: block;
+  text-decoration: none;
 }
 #sidebar-container ul {
-list-style-type: none;
-text-align: center;
-padding: 0;
-text-decoration: none;
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
+  text-decoration: none;
 }
 #sidebar-container ul li {
-padding: 15px 0;
-color: #fff;
-text-decoration: none;
+  padding: 15px 0;
+  color: #fff;
+  text-decoration: none;
 }
 #sidebar-container ul li a:hover {
-background-color: #000;
-text-decoration: none;
+  background-color: #000;
+  text-decoration: none;
 }
